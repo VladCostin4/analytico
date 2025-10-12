@@ -1,0 +1,50 @@
+/* General table styling */
+.team-table {
+  width: 100%;
+  border-collapse: collapse;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+/* Header row */
+.team-table th {
+  background-color: #f5f5f5;
+  text-align: center;
+  padding: 10px;
+  font-weight: 600;
+  border: 1px solid #ddd;
+}
+
+/* Regular cells */
+.team-table td {
+  text-align: center;
+  padding: 10px;
+  vertical-align: middle;
+  border: 1px solid #ddd;
+}
+
+/* Profile images */
+.team-photo {
+  display: block;
+  margin: 0 auto;
+  border-radius: 50%;
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+  border: 2px solid #ccc;
+}
+
+/* Hover effect for rows */
+.team-table tr:hover {
+  background-color: #fafafa;
+}
+
+/* Responsive layout */
+@media (max-width: 600px) {
+  .team-table td,
+  .team-table th {
+    display: block;
+    width: 100%;
+  }
+}

@@ -11,3 +11,7 @@ theme:
 
 nav:
   - Home: index.md
+
+extra_css:
+  - style.css
+  

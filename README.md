@@ -1,6 +1,6 @@
 # Analytico Fiki
 
-Fiki page: https://vladcostin4.github.io/analytico/
+Public fiki page: https://vladcostin4.github.io/analytico/
 
 Project setup:
 

@@ -1,6 +1,10 @@
-# Analytico Local Setup
+# Analytico Fiki
 
-In project root directory:
+Fiki page: https://vladcostin4.github.io/analytico/
+
+Project setup:
+
+1. Run these in the root directory:
 
 - python3 -m venv .venv
 
@@ -10,4 +14,4 @@ In project root directory:
 
 - mkdocs serve
 
-=> http://localhost:8000
+2. Open fiki page at: http://localhost:8000

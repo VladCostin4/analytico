@@ -122,4 +122,6 @@ Analytico is a simple and intuitive analytics platform that turns raw small busi
 ## 💵 Revenue Streams
 
 - **Pay-as-you-go:** price per report depending on complexity  
-- **Subscription model:** unlimited access to advanced analytics and features  
+- **Subscription model:** unlimited access to advanced analytics and features
+
+---

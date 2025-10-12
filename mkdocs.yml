@@ -1,0 +1,13 @@
+site_name: Analytico Wiki
+site_url: https://vladcostin4.github.io/analytico/
+
+theme:
+  name: material
+  palette:
+    primary: indigo
+    accent: blue
+  features:
+    - toc.integrate
+
+nav:
+  - Home: index.md

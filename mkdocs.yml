@@ -11,6 +11,8 @@ theme:
 
 nav:
   - Home: index.md
+  - M1 - Project Foundation: m1.md
+  - M2 - Technical Implementation: m2.md
 
 extra_css:
   - style.css

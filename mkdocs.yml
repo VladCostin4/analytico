@@ -13,6 +13,7 @@ nav:
   - Home: index.md
   - M1 - Project Foundation: m1.md
   - M2 - Technical Implementation: m2.md
+  - M3 - Mockup and Landing Page: m3.md
 
 extra_css:
   - style.css

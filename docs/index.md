@@ -12,3 +12,4 @@ This wiki contains detailed information about the Analytico project:
 - **[M1 - Project Foundation](m1.md)** - Team, problem definition, solution, and business model
 - **[M2 - Technical Implementation](m2.md)** - Development milestones and technical components
 - **[M3 - Mockup and Landing Page](m3.md)** - Design and landing page
+- **[M4 - Iteration 2 for interviews, user persona and user stories](m4.md)**

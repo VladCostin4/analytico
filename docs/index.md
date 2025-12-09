@@ -13,3 +13,4 @@ This wiki contains detailed information about the Analytico project:
 - **[M2 - Technical Implementation](m2.md)** - Development milestones and technical components
 - **[M3 - Mockup and Landing Page](m3.md)** - Design and landing page
 - **[M4 - Iteration 2 for interviews, user persona and user stories](m4.md)**
+- **[M6 - Market Research Report](m6.md)** - Lead Generation and Collection

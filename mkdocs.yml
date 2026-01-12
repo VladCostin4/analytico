@@ -16,6 +16,8 @@ nav:
   - M3 - Mockup and Landing Page: m3.md
   - M4 - User persona and user stories: m4.md
   - M6 - Market Research Report: m6.md
+  - M7 - Minimum Viable Product: m7.md
+  - M8 - First Sale: m8.md
 
 extra_css:
   - style.css
